@@ -1,0 +1,10 @@
+C:\Users\Zabi Babar\source\repos\Robust Distance Library\Robust Distance Library\bin\Debug\netcoreapp3.0\Robust Distance Library.exe
+C:\Users\Zabi Babar\source\repos\Robust Distance Library\Robust Distance Library\bin\Debug\netcoreapp3.0\Robust Distance Library.deps.json
+C:\Users\Zabi Babar\source\repos\Robust Distance Library\Robust Distance Library\bin\Debug\netcoreapp3.0\Robust Distance Library.runtimeconfig.json
+C:\Users\Zabi Babar\source\repos\Robust Distance Library\Robust Distance Library\bin\Debug\netcoreapp3.0\Robust Distance Library.runtimeconfig.dev.json
+C:\Users\Zabi Babar\source\repos\Robust Distance Library\Robust Distance Library\bin\Debug\netcoreapp3.0\Robust Distance Library.dll
+C:\Users\Zabi Babar\source\repos\Robust Distance Library\Robust Distance Library\bin\Debug\netcoreapp3.0\Robust Distance Library.pdb
+C:\Users\Zabi Babar\source\repos\Robust Distance Library\Robust Distance Library\obj\Debug\netcoreapp3.0\Robust Distance Library.AssemblyInfoInputs.cache
+C:\Users\Zabi Babar\source\repos\Robust Distance Library\Robust Distance Library\obj\Debug\netcoreapp3.0\Robust Distance Library.AssemblyInfo.cs
+C:\Users\Zabi Babar\source\repos\Robust Distance Library\Robust Distance Library\obj\Debug\netcoreapp3.0\Robust Distance Library.dll
+C:\Users\Zabi Babar\source\repos\Robust Distance Library\Robust Distance Library\obj\Debug\netcoreapp3.0\Robust Distance Library.pdb
